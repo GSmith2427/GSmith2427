@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GSmith2427 or Gabe :)
 - I am currently a first-year Computer Science student at the University of Nottingham due to graduate in 2027.
-- My current educational path is to prepare me for working with embedded systems and I am actively looking for internships, whether it be summer or industry placements.
-- My favourite languages are python and C#, but currently I am also experimenting with C and Assembly for my 1st year modules.
+- I thoughrouly enjoy leanring the different sub-sets of Computer Science, and I am actively looking for internships, to apply this knowledge to.
+- Through my first year, i have been exposed to and gained experience building projects in C, ARM ASM, JAVA, JavaScript, SQL, HTML, CSS, and Python. 
 - My extracurricular interests are, going to the gym, rock climbing, combat sports, travel and culture.
 - Feel free to have a look at my previous work completed as personal projects as well as from prior education projects.
